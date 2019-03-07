@@ -12,6 +12,7 @@ using System.ComponentModel;
 #endif
 using Itenso.TimePeriod;
 using Xunit;
+using ListSortDirection = Itenso.TimePeriod.ListSortDirection;
 
 namespace Itenso.TimePeriodTests
 {
